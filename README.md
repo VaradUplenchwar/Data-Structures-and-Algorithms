@@ -22,6 +22,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 - Solve DSA problems consistently.
 - Prepare for coding interviews.
 - Track my progress using Git and GitHub.
+- Solve 800 questions by end of 2028 
 
 ---
 ⭐ If you find this repository useful, feel free to star it.
